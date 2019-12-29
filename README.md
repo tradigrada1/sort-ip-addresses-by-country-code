@@ -9,8 +9,9 @@ Now install the required modules with the following command
 # IPython versions and Python Support
 ipsort requires Python version 3 or above
 
-# Development and Instant running
-Creat file text and Just paste the IP addresses.
-<code>python ipsort.py</code>
-you will find folder named /ip with sorted ip 
-# sort-ip-addresses-by-country-code
+# Utilisation
+**make sure you have a list of IP addresses *.txt**
+
+<code>$ python ipsort.py</code>
+
+you will find folder named /ip with sorted ip in the same directory
