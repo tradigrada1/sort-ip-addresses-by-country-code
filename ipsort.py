@@ -1,5 +1,4 @@
 from ip2geotools.databases.noncommercial import DbIpCity
-from selenium.common.exceptions import TimeoutException
 import re
 from time import sleep
 from urllib.request import urlopen
